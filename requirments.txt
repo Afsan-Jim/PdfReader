@@ -1,0 +1,6 @@
+comtypes==1.2.0
+PyPDF2==3.0.1
+pypiwin32==223
+pyttsx3==2.71
+pywin32==224
+typing_extensions==4.7.0
